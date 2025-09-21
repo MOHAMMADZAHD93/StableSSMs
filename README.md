@@ -4,7 +4,7 @@ This repository contains the different scripts for the paper Distributions and D
 This project uses Julia’s Pkg environment. To install the correct versions:
 
 ```bash
-git clone https://github.com/MOHAMMADZAHD93/When2measureKF
+git clone https://github.com/MOHAMMADZAHD93/StableSSMs
 cd your-repo
 julia --project=. -e 'using Pkg; Pkg.instantiate()'
 ```
