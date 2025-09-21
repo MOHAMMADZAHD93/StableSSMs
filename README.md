@@ -1,5 +1,5 @@
 # Distributions and Direct Parametrization for Stable Stochastic SSMs.
-This repository contains the different scripts for the paper Distributions and Direct Parametrization for Stable Stochastic SSMs (preprint: https://arxiv.org/abs/2503.14177). 
+This repository contains the code used for the results in the paper titled: "Distributions and Direct Parametrization for Stable Stochastic SSMs" (preprint: https://arxiv.org/abs/2503.14177). 
 
 This project uses Julia’s Pkg environment. To install the correct versions:
 
